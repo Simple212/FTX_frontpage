@@ -1,0 +1,58 @@
+#basic-nav-dropdown{
+    color: white !important;
+    margin-right: 14px !important;
+    padding: 12px !important;
+}
+#basic-nav-dropdown:hover{
+    border-color: rgb(46, 42, 42) !important;
+    background-color: rgb(46, 42, 42) !important;
+    border-radius: 14px !important;
+}
+#navbar{
+    background-color: #080404 !important;
+}
+#btn1{
+    background-color: #080404 !important;
+    border-color: #080404 !important;
+    border-radius: 50px !important;
+    background-color: none !important;
+    margin-right: 10px;
+}
+#btn1:hover{
+    border-color: rgb(46, 42, 42) !important;
+    background-color: rgb(46, 42, 42) !important;
+    border-radius: 10px !important;
+}
+#btn2{
+    background-color: #080404 !important;
+    font-size: 15px !important;
+    border-radius: 10px !important;
+    font-weight: bold !important;
+    color: white !important;
+    background-color: #0196b9 !important;
+}
+#btn2:hover{
+    background-color :#00a3c6 !important;
+}
+#btn3{
+    border-color: #080404 !important;
+    background-color: #080404 !important;
+    margin-left: 10px;
+}
+#btn3:hover{
+    border-color: rgb(46, 42, 42) !important;
+    background-color: rgb(46, 42, 42) !important;
+}
+#img1{
+    filter: invert() !important;
+    width: 20px !important;
+}
+.navbar-toggler-icon{
+    color: white !important;
+}
+#anchor1{
+    text-decoration: none;   
+    font-weight: bold !important;
+    color: white !important;
+    font-size: 15px !important;
+}
